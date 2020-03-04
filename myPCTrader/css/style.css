@@ -413,8 +413,10 @@ ul.dropdown-menu li {
 }
 
 .bg-3 {
-  background: url("../images/bg/bg-cta.jpg") no-repeat;
+  background: url("../images/bg/laptopbg.jpg") no-repeat;
   background-size: cover;
+  padding: 180px 0px;
+  
 }
 
 .bg-4 {
